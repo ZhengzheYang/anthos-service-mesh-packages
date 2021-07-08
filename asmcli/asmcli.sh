@@ -34,6 +34,7 @@ REV="${REV:=3}"; readonly REV;
 CONFIG_VER="${CONFIG_VER:="1"}"; readonly CONFIG_VER;
 K8S_MINOR=0
 
+
 ### File related constants ###
 VALIDATION_FIX_FILE_NAME=""
 ASM_VERSION_FILE=""
